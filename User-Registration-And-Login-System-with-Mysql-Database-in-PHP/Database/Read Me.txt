@@ -1,0 +1,9 @@
+Database Configure :
+
+Step - 1 : Create Database -> Name = test
+Step - 2 : test->import sql table -> test.sql
+Step - 3 : Enjoy
+
+Default User :
+Email : test@gmail.com
+Password : 123456

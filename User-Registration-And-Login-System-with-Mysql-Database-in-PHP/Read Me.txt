@@ -1,0 +1,7 @@
+Project Name : User Registration And Login System with Mysql Database in PHP.
+Project Language : Html,css,javascript,php
+Database : Mysql
+Developer Info : 
+Md. Nur Sami Noman
+Software Engineer
+Walton Hi-Tech Industries PLC.
